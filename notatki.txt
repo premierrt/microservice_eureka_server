@@ -1,0 +1,16 @@
+dependencyManagement
+
+https://memorynotfound.com/spring-cloud-eureka-service-discovery-client-server-example/
+
+mvn spring-boot:run
+
+
+---------
+zaimplementowac:
+mikroservice ktory wystawia rest api i komunikuje sie z ... fileSystem adapterem zapisujacym do pliku 
+
+https://www.slideshare.net/DominikStrzyewski/spring-integration-57829066
+
+http://javasampleapproach.com/spring-framework/spring-integration/use-spring-integration-http-inbound-spring-boot
+
+https://springframework.guru/spring-boot-example-of-spring-integration-and-activemq/
