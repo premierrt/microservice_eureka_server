@@ -14,3 +14,9 @@ https://www.slideshare.net/DominikStrzyewski/spring-integration-57829066
 http://javasampleapproach.com/spring-framework/spring-integration/use-spring-integration-http-inbound-spring-boot
 
 https://springframework.guru/spring-boot-example-of-spring-integration-and-activemq/
+
+--
+stworzenie dockera:
+
+https://www.callicoder.com/spring-boot-docker-example/
+
