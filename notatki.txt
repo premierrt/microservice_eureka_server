@@ -42,3 +42,5 @@ https://projectlombok.org/api/lombok/extern/slf4j/Slf4j.html
 
 to_do:
 mapowanie volumenty var/log w dockerfile
+
+sudo docker run -v /tmp:/var/log/ -p 8761:8761 fed70a67af55
