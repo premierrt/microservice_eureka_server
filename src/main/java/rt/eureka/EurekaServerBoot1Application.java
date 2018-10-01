@@ -13,5 +13,6 @@ public class EurekaServerBoot1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaServerBoot1Application.class, args);
+		log.info("test ");
 	}
 }
